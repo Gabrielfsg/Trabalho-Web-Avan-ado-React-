@@ -1,0 +1,2 @@
+Para as imagens da galeria de imagem é obrigatório que os arquivos estejam no seguinte
+formato: imagemX.jpg, onde ‘X’ é o número vindo do input e jpg minúsculo.

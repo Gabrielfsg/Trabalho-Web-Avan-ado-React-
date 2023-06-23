@@ -1,0 +1,3 @@
+Para as imagens dos automóveis é obrigatório que os arquivos estejam no seguinte
+formato: carro.jpg. O nome do arquivo estará todo em letras minúsculas, virá desta forma
+do input de texto e jpg minúsculo.
