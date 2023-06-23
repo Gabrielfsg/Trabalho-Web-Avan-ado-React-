@@ -1,4 +1,4 @@
-# Trabalho-Web-Avancado-React-
+# Trabalho-Web-Avancado-Em-React
 
 Dependencias utilizadas para o trabalho
 
